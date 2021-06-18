@@ -18,22 +18,22 @@ var q = {
 
 // 결과
 var result = {
-    "ISTJ": { "animal": "거북이", "explain": "거북이는 차근차근 계획적으로 움직이고 진득한 유형", "img": "turtle.jpg" },
-    "ISFJ": { "animal": "코뿔소", "explain": "코뿔소는 자신의 영역을 잘 지킴으로 매우 신중하기 때문에 리더의 강략한 조력자", "img": "rhino.jpg" },
-    "INFJ": { "animal": "팬더", "explain": "팬더는 매우 매력적이어서 신비롭기까지한 유형의 예언자", "img": "panda.jpg" },
-    "INTJ": { "animal": "호랑이", "explain": "호랑이는 용감하고 용맹스러워 독립심이 강한유형으로 호기심이 많은 전략가", "img": "tiger.jpg" },
-    "ISTP": { "animal": "뱀", "explain": "뱀은 기본적으로 지혜롭지만 때로는 교활해 다른 사람의 비난을 받기도하는 예측불가 유형", "img": "snake.jpg" },
-    "ISFP": { "animal": "고양이", "explain": "고양이는 내성적이고 감정이 풍부하여 호기심이 많은 만능 재주꾼", "img": "cat.jpg" },
-    "INFP": { "animal": "물개", "explain": "물개는 이성주의자 유형이면서도 망상가 기질을 가지고 있는 유형", "img": "seal.jpg" },
-    "INTP": { "animal": "부엉이", "explain": "부엉이는 주관이 뚜렷한 유형으로 건설적인 사색가 유형", "img": "owl.jpg" },
-    "ESTP": { "animal": "하이에나", "explain": "하이에나는 친해지려해도 친해질수 없는 기회주의자 유형", "img": "hyena.jpg" },
-    "ESFP": { "animal": "돌고래", "explain": "돌고래는 스타성을 지닌 자유로운 영혼의 사교적인 유형", "img": "dolphin.jpg" },
-    "ENFP": { "animal": "오랑우탄", "explain": "오랑우탄은 자유롭고 즉흥적이며 불꽃같은 유형", "img": "orangutang.jpg" },
-    "ENTP": { "animal": "앵무새", "explain": "앵무새는 매력적이고 뛰어난 긍정적인 발명가 유형", "img": "parrot.jpg" },
-    "ESTJ": { "animal": "늑대", "explain": "늑대는 공격적이며 도전적이어서 사업가 유형", "img": "wolf.jpg" },
-    "ESFJ": { "animal": "코끼리", "explain": "코끼리는 온순하고 친화력이 좋아 사교적인 유형", "img": "elephant.jpg" },
-    "ENFJ": { "animal": "강아지", "explain": "강아지는 충성스럽고 믿음직스러우며 언변의 달인 유형", "img": "dog.jpg" },
-    "ENTJ": { "animal": "사자", "explain": "사자는 타고난 리더십으로 카리스마와 자신감이 넘치는 지도자 유형", "img": "lion.jpg" },
+    "ISTJ": { "animal": "거북이", "explain": "거북이는 차근차근 계획적으로 움직이고 진득한 유형", "img": "./img/turtle.jpg" },
+    "ISFJ": { "animal": "코뿔소", "explain": "코뿔소는 자신의 영역을 잘 지킴으로 매우 신중하기 때문에 리더의 강략한 조력자", "img": "./img/rhino.jpg" },
+    "INFJ": { "animal": "팬더", "explain": "팬더는 매우 매력적이어서 신비롭기까지한 유형의 예언자", "img": "./img/panda.jpg" },
+    "INTJ": { "animal": "호랑이", "explain": "호랑이는 용감하고 용맹스러워 독립심이 강한유형으로 호기심이 많은 전략가", "img": "./img/tiger.jpg" },
+    "ISTP": { "animal": "뱀", "explain": "뱀은 기본적으로 지혜롭지만 때로는 교활해 다른 사람의 비난을 받기도하는 예측불가 유형", "img": "./img/snake.jpg" },
+    "ISFP": { "animal": "고양이", "explain": "고양이는 내성적이고 감정이 풍부하여 호기심이 많은 만능 재주꾼", "img": "./img/cat.jpg" },
+    "INFP": { "animal": "물개", "explain": "물개는 이성주의자 유형이면서도 망상가 기질을 가지고 있는 유형", "img": "./img/seal.jpg" },
+    "INTP": { "animal": "부엉이", "explain": "부엉이는 주관이 뚜렷한 유형으로 건설적인 사색가 유형", "img": "./img/owl.jpg" },
+    "ESTP": { "animal": "하이에나", "explain": "하이에나는 친해지려해도 친해질수 없는 기회주의자 유형", "img": "./img/hyena.jpg" },
+    "ESFP": { "animal": "돌고래", "explain": "돌고래는 스타성을 지닌 자유로운 영혼의 사교적인 유형", "img": "./img/dolphin.jpg" },
+    "ENFP": { "animal": "오랑우탄", "explain": "오랑우탄은 자유롭고 즉흥적이며 불꽃같은 유형", "img": "./img/orangutan.jpg" },
+    "ENTP": { "animal": "앵무새", "explain": "앵무새는 매력적이고 뛰어난 긍정적인 발명가 유형", "img": "./img/parrot.jpg" },
+    "ESTJ": { "animal": "늑대", "explain": "늑대는 공격적이며 도전적이어서 사업가 유형", "img": "./img/wolf.jpg" },
+    "ESFJ": { "animal": "코끼리", "explain": "코끼리는 온순하고 친화력이 좋아 사교적인 유형", "img": "./img/elephant.jpg" },
+    "ENFJ": { "animal": "강아지", "explain": "강아지는 충성스럽고 믿음직스러우며 언변의 달인 유형", "img": "./img/dog.jpg" },
+    "ENTJ": { "animal": "사자", "explain": "사자는 타고난 리더십으로 카리스마와 자신감이 넘치는 지도자 유형", "img": "./img/lion.jpg" },
 }
 
 // 문제 시작 버튼 click event
@@ -72,7 +72,7 @@ function nextQuestion() {
         $("#explain").html(result[mbti]["explain"]);
         console.log(result[mbti]["explain"])
     } else {
-        $(".progress-bar").attr('style', `width: calc(100/12*${num}%)`);
+        $(".progress-bar").attr('style', 'width: calc(100/12*'+num+'%)');
         $("#title").html(q[num]["title"]);
         $("#type").val(q[num]["type"]);
         $("#A").html(q[num]["A"]);
