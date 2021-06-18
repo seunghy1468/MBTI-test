@@ -5,4 +5,15 @@ article {
 
 .question {
   display: none;
+  color: black;
+}
+
+.result {
+  display: none;
+  color: black;
+}
+
+.progress-bar {
+  width: 1%;
+  background-color: orange;
 }
