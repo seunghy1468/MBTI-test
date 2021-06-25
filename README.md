@@ -2,7 +2,10 @@
 
 ## 동물 MBTI 테스트
 
-* 물음: 홀수로 구성 (MBTI 선택지 과반수로 결정) 
+* Logic
+  * 물음: 홀수로 구성 (MBTI 선택지 과반수로 결정) 
+  * 선택에 따라 count 변수를 하나씩 늘려가면서 저장
+  * count 값의 threshold를 설정하여 선택지 선택 
 
 ![1](https://user-images.githubusercontent.com/47622991/123443897-4546fb80-d611-11eb-826f-2065204325a4.PNG)
 
