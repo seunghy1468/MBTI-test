@@ -7,6 +7,10 @@
   * 선택에 따라 count 변수를 하나씩 늘려가면서 저장
   * count 값의 threshold를 설정하여 선택지 선택 
 
+
+
+--------------
+
 ![1](https://user-images.githubusercontent.com/47622991/123443897-4546fb80-d611-11eb-826f-2065204325a4.PNG)
 
 ![2](https://user-images.githubusercontent.com/47622991/123443900-4710bf00-d611-11eb-9d2b-0d023a0e6256.PNG)
