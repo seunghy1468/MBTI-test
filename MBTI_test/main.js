@@ -68,7 +68,7 @@ function nextQuestion() {
         ($("#SN").val() < 2) ? mbti += "N" : mbti += "S";
         ($("#TF").val() < 2) ? mbti += "F" : mbti += "T";
         ($("#JP").val() < 2) ? mbti += "P" : mbti += "J";
-        alert(mbti);
+        // alert(mbti);
 
         // 동물이미지, 동물이름, 동물설명 모두 mbti 결과에 맞게 변해야하므로, result의 list에서 가져온다
         $("#img").attr("src", result[mbti]["img"]);
